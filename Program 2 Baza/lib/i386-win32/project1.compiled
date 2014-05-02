@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<CONFIG>
-  <Compiler Value="D:\Programy\lazarus\lazarus\fpc\2.4.4\bin\i386-win32\fpc.exe" Date="1063561443"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gl -vewnhi -l &quot;-FiD:\studia\Semestr I\PPK sem 1\Program 2 Baza\lib\i386-win32&quot; &quot;-FuD:\studia\Semestr I\PPK sem 1\Program 2 Baza\&quot; -Fu. &quot;-FUD:\studia\Semestr I\PPK sem 1\Program 2 Baza\lib\i386-win32\&quot; -oproject1.exe project1.pas"/>
-</CONFIG>
